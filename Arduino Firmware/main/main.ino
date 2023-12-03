@@ -1,5 +1,5 @@
 //GENERAL
-#include <ArduinoMqttClient.h>
+#include <ArduinoMqttClient.h> //File with Wifi credentials and MQTT TTiO topic
 #include <WiFi101.h>
 #include <ArduinoJson.h>
 #include "secretos_arduino.h"
