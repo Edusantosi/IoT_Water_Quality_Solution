@@ -1,4 +1,4 @@
-# TFG_IoT_Hydroponics
+# IoT Solution for Aquaculture, Hidroponics and Aquaponics
 ## Table of Contents
 
 - [TFG_IoT_Hydroponics](#tfg_iot_hydroponics)
