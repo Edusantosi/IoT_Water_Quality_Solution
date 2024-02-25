@@ -1,4 +1,15 @@
 # TFG_IoT_Hydroponics
+## Table of Contents
+
+- [TFG_IoT_Hydroponics](#tfg_iot_hydroponics)
+- [Arquitecture](#arquitecture)
+- [Table of materials](#table-of-materials)
+  - [Hardware](#hardware)
+  - [Software](#software)
+- [Circuit Diagram](#circuit-diagram)
+- [How to run it](#how-to-run-it)
+  - [Arduino](#arduino)
+  - [Dependencies](#dependencies)
 
 IoT Solution prototype for monitoring water quality parameters in aquaculture, hydroponic, and aquaponic environments. This project is part of my thesis as an ICT Management Engineer and the motivation behind this project was to use technology on trying to solve the problems of tomorrow. Because of many factors, the way we harvest food may have to change and it needs to be more resilient and sustainable, some practices like the method mentioned before are fit to solve some challenges and this prototype aims to make water quality monitoring something feasible and easy. 
 
@@ -42,7 +53,7 @@ https://www.twilio.com/
 
 ## How to run it
 ### Arduino
-To un the code in the Arduino MKR1000 just 
+To run the code in the Arduino MKR1000 just download the main.ino and sectretos_arduino.h (here you just must put your credentials) You will also need toinstall the dependencies listed afterwards and once everything is set up, you'll just need to configure thethings.io application.
 
 ### Dependencies 
 - **ArduinoMqttClient.h**
